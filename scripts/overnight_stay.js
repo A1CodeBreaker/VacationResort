@@ -1,7 +1,6 @@
 "use strict";
 
-
-  const checkinRateButton = document.getElementById("checkinRate");
+const checkinRateButton = document.getElementById("checkinRate");
   checkinRateButton.addEventListener("click", calculateRate);
 
   function calculateRate() {
@@ -62,4 +61,5 @@
   }
 
 
+  
 
